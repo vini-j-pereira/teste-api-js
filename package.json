@@ -1,0 +1,24 @@
+{
+  "name": "teste-api",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "teste de api com js mongodb",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vini-j-pereira/teste-api-js.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vini-j-pereira/teste-api-js/issues"
+  },
+  "homepage": "https://github.com/vini-j-pereira/teste-api-js#readme",
+  "dependencies": {
+    "express": "^4.19.2"
+  }
+}
